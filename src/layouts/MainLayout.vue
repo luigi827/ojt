@@ -27,7 +27,7 @@
               color="black"
               bg-color="white"
               filled
-              placeholder="Search...">
+              placeholder="Search mo to...">
               <template v-slot:append>
                 <q-icon name="search" />
               </template>
