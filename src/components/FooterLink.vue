@@ -34,13 +34,14 @@
                 </ul>
             </div>
             <p class="text-h4 text-bold text-white q-mt-xl q-pt-l" style="color: white; margin-left: 75px;">About Company</p>
-            <p class="info" style="margin-left: 75px;">Lorem ipsum dolor sit amet et delectus<br> accommodare his consul copiosae legendos <br>at vix ad putent delectus delicata usu.</p>
+            <p class="info" style="margin-left: 75px;">Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu.</p>
             <p class="info" style="margin-left: 75px; text-transform: capitalize;">support emails - help@shoengaKicksDepot.com, customersupport@shoengaKicksDepot.com</p>
             <p class="info" style="margin-left: 75px;">Contact No. - 0927 856 1349</p>
             <div class="footer-social-container" style="text-transform: capitalize; margin-left: 75px;">
                 <div>
                     <a href="#" class="social-link">terms & services</a>
-                    <a href="#" class="social-link">privacy page</a>
+                    <br>
+                    <a href="#" class="social-link">Privacy Page</a>
                 </div>
                 <div>
                     <a href="#" class="social-link">instagram</a>
@@ -64,6 +65,6 @@ import {
 }
 from "vue"
 export default defineComponent ({
-    name : 'FooterLinkLink'
+    name : 'FooterLink'
 })
 </script>
